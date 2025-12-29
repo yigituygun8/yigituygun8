@@ -8,6 +8,6 @@
 
 
 
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.yigituygun)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/osmanyigituygun8/)
 [![Mail Badge](https://img.shields.io/badge/osmanuygun197@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:osmanuygun197@gmail.com)](mailto:osmanuygun197@gmail.com)
 
